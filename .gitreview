@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/kernel_fairphone_sm7225
+defaultbranch=android12L
